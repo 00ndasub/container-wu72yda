@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "00ndasub",
+  "repo": "container-wu72yda",
+  "name": "00ndasub",
+}
